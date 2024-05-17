@@ -252,4 +252,41 @@ span{
     padding-top: 10px;
 }
 
+footer{
+    margin-top: 15px;
+}
+
+.foot-panel1{
+    background-color: #37475a;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    color: white;
+    display: flex;
+    font-size: 1rem; 
+}
+
+.footer-panel2{
+    background-color: #222f3d;
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #ddddd;
+}
+
+ul p{
+    font-weight: 500;
+}
+
+ul{
+    margin-top: 30px;
+}
+
 
