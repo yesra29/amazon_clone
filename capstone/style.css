@@ -309,20 +309,19 @@ ul{
 }
 
 .foot-panel4 {
-    background-color: #222f3d;
+    background-color: #0f1111;
     height: 80px;
     color: white;
-    display: flex;
-    justify-content:center;
-    align-items: center;
+    font-size: 0.7rem;
+    text-align: center;
 }
 
 .foot-options{
-    text-align: center;
+    padding-top: 25px;
 }
 
 .copyright{
-    text-align: center;
+    padding-top: 5px;
 } 
 
 
