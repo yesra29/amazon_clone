@@ -231,9 +231,7 @@ span{
     margin-right: 1rem;
 }
 
-.box1-content p{
-    color: rgb(255, 123, 0);
-}
+
 
 .per{
     display: flex;
@@ -342,7 +340,6 @@ ul{
 }
 
 .pricing{
-    background-color: white;
     height: 30px;
     display: flex;
     justify-content: space-evenly;
