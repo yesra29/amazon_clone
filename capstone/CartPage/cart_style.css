@@ -135,7 +135,7 @@ span{
 }
 
 .hero-section{
-    background-image: url(/capstone/cart/hero_image.jpg);
+    background-image: url(/capstone/assets/CartPage/hero_image.jpg);
     height: 300px;
     background-size: cover;
     display: flex;
@@ -163,27 +163,27 @@ span{
 
 .box1-img{
     height: 300px;
-    background-size:contain;
+    background-size:cover;
     background-repeat: no-repeat;
 }
 
 .box2-img{
-    height: 230px;
-    background-image: url("/capstone/box2_image.jpg");
+    height: 300px;
+    background-image: url("/capstone/assets/CartPage/img_accesories.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box3-img{
     height: 230px;
-    background-image: url("/capstone/box3_image.jpg");
+    background-image: url("/capstone/assets/CartPage/img_shoes.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box4-img{
     height: 230px;
-    background-image: url("/capstone/box4_image.jpg");
+    background-image: url("/capstone/assets/CartPage/img_watches.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
