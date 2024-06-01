@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("assets/amazon_logo.png");
+    background-image: url("/capstone/assets/HomePage/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -135,7 +135,7 @@ span{
 }
 
 .hero-section{
-    background-image: url(assets/hero_image.jpg);
+    background-image: url(/capstone/assets/HomePage/hero_image.jpg);
     height: 400px;
     background-size: cover;
     display: flex;
@@ -174,49 +174,49 @@ span{
 
 .box1-img{
     height: 230px;
-    background-image: url("assets/box1_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box1_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box2-img{
     height: 230px;
-    background-image: url("assets/box2_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box2_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box3-img{
     height: 230px;
-    background-image: url("assets/box3_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box3_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box4-img{
     height: 230px;
-    background-image: url("assets/box4_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box4_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box5-img{
     height: 230px;
-    background-image: url("assets/box5_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box5_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box6-img{
     height: 230px;
-    background-image: url("assets/box6_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box6_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box7-img{
     height: 230px;
-    background-image: url("assets/box7_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box7_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -224,7 +224,7 @@ span{
 
 .box8-img{
     height: 230px;
-    background-image: url("assets/box8_image.jpg");
+    background-image: url("/capstone/assets/HomePage/box8_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -316,7 +316,7 @@ ul{
 }
 
 .foot-logo{
-    background-image: url("assets/amazon_logo.png");
+    background-image: url("/capstone/assets/HomePage/amazon_logo.png");
     height: 50px;
     background-size: cover;
     width: 100px;
